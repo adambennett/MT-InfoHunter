@@ -60,6 +60,7 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="InfoHunter.cs" />
+        <Compile Include="KittenPatch.cs" />
         <Compile Include="Patch.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
